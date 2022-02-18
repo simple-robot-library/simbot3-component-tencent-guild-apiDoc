@@ -13,5 +13,13 @@ love.forte.simbot.tencentguild.api.message
 love.forte.simbot.tencentguild.api.role
 love.forte.simbot.tencentguild.api.user
 love.forte.simbot.tencentguild.internal
+module:simbot-component-tencent-guild-boot
+love.forte.simboot.component.tencentguild
+module:simbot-component-tencent-guild-core
+love.forte.simbot.component.tencentguild
+love.forte.simbot.component.tencentguild.event
+love.forte.simbot.component.tencentguild.internal
+love.forte.simbot.component.tencentguild.message
+love.forte.simbot.component.tencentguild.util
 module:simbot-component-tencent-guild-stdlib
 love.forte.simbot.tencentguild
